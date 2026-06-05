@@ -1,0 +1,16 @@
+{
+  "name": "inobram-parts-order-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/functions/*.js",
+  "scripts": {
+    "start": "func start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/data-tables": "^13.3.2",
+    "@azure/functions": "^4.16.0"
+  }
+}

@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@azure/communication-email": "^1.0.0",
     "@azure/data-tables": "^13.3.2",
-    "@azure/functions": "^4.16.0"
+    "@azure/functions": "^4.16.0",
+    "jose": "^5.10.0"
   }
 }
